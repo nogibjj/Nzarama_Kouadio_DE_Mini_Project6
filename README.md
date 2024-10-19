@@ -10,7 +10,9 @@ This project demonstrates how to extract, load, and query data related to US bir
 The main script performs the following operations:
 
 **Extract**: Downloads the dataset (US Births) from an online source.
+
 **Load** : Loads the extracted dataset into a table within the Databricks database.
+
 **Query** : Queries the data with a complex SQL query involving aggregation and joins.
 
 # Setup Instructions
@@ -51,11 +53,15 @@ requirements.txt              # Dependencies (requests, pandas, databricks-sql-c
 
 # Requirements
 
-Python 3.12.5
-Databricks SQL connector
-Requests
-Pandas
-Python-dotenv
+- Python 3.12.5
+
+- Databricks SQL connector
+
+- Requests
+
+- Pandas
+
+- Python-dotenv
 
 
 
