@@ -1,7 +1,7 @@
 
 ## Mini Project 6: Database Operations with Databricks
 
-
+[![CI](https://github.com/nogibjj/Nzarama_Kouadio_DE_Mini_Project6/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Nzarama_Kouadio_DE_Mini_Project6/actions/workflows/cicd.yml)
 
 This project demonstrates how to extract, load, and query data related to US births from 2000 to 2014. We used Databricks SQL for database operations, which involves downloading a dataset, loading it into a Databricks database, and querying it for specific information.
 
